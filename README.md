@@ -1,5 +1,5 @@
 # Salah-premier-league-stats
-Analysis of Mohammed Salah in premier League
+Analysis of Mohammed Salah,Kane and other players in premier League
 
 Using compact stats from:
 
